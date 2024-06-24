@@ -7,3 +7,4 @@ Este repositório contém um projeto de análise estatística de dados relaciona
 - **Análise de Desempenho**: Scripts e notebooks Jupyter com análises estatísticas e visualizações.
 - **Dados**: Conjuntos de dados utilizados para as análises.
 - **Visualizações**: Gráficos e dashboards criados durante a análise.
+- https://github.com/EDVADMBD/FUTEBOL/blob/main/COPA_AMERICA_2024.ipynb
